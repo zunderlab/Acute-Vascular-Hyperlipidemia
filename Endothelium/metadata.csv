@@ -1,0 +1,18 @@
+file_name,Genotype,Diet,Timepoint
+Tube_1_1_wk_chow_WT_43507_Endothelium.fcs,WT,chow,1 wk
+Tube_1_1_wk_chow_WT_43710_Endothelium.fcs,WT,chow,1 wk
+Tube_1_1_wk_HFD_WT_44309_Endothelium.fcs,WT,HFD,1 wk
+Tube_1_4_wk_HFD_WT_44303_Endothelium.fcs,WT,HFD,4 wk
+Tube_1_4_wk_HFD_WT_44306_Endothelium.fcs,WT,HFD,4 wk
+Tube_2_1_wk_chow_WT_43512_Endothelium.fcs,WT,chow,1 wk
+Tube_2_1_wk_chow_WT_43709_Endothelium.fcs,WT,chow,1 wk
+Tube_2_1_wk_HFD_WT_44307_Endothelium.fcs,WT,HFD,1 wk
+Tube_2_1_wk_HFD_WT_44310_Endothelium.fcs,WT,HFD,1 wk
+Tube_2_4_wk_chow_WT_43703_Endothelium.fcs,WT,chow,4 wk
+Tube_2_4_wk_chow_WT_43706_Endothelium.fcs,WT,chow,4 wk
+Tube_2_4_wk_HFD_WT_44304_Endothelium.fcs,WT,HFD,4 wk
+Tube_3_1_wk_chow_WT_43711_Endothelium.fcs,WT,chow,1 wk
+Tube_3_1_wk_HFD_WT_44308_Endothelium.fcs,WT,HFD,1 wk
+Tube_3_4_wk_chow_WT_43705_Endothelium.fcs,WT,chow,4 wk
+Tube_3_4_wk_HFD_WT_44302_Endothelium.fcs,WT,HFD,4 wk
+Tube_3_4_wk_HFD_WT_44305_Endothelium.fcs,WT,HFD,4 wk
