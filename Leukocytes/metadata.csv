@@ -1,0 +1,18 @@
+file_name,Diet,Genotype,Timepoint
+Tube_1_1_wk_chow_WT_43507_Leukocyte.fcs,chow,WT,1 wk
+Tube_1_1_wk_chow_WT_43710_Leukocyte.fcs,chow,WT,1 wk
+Tube_1_1_wk_HFD_WT_44309_Leukocyte.fcs,HFD,WT,1 wk
+Tube_1_4_wk_HFD_WT_44303_Leukocyte.fcs,HFD,WT,4 wk
+Tube_1_4_wk_HFD_WT_44306_Leukocyte.fcs,HFD,WT,4 wk
+Tube_2_1_wk_chow_WT_43512_Leukocyte.fcs,chow,WT,1 wk
+Tube_2_1_wk_chow_WT_43709_Leukocyte.fcs,chow,WT,1 wk
+Tube_2_1_wk_HFD_WT_44307_Leukocyte.fcs,HFD,WT,1 wk
+Tube_2_1_wk_HFD_WT_44310_Leukocyte.fcs,HFD,WT,1 wk
+Tube_2_4_wk_chow_WT_43703_Leukocyte.fcs,chow,WT,4 wk
+Tube_2_4_wk_chow_WT_43706_Leukocyte.fcs,chow,WT,4 wk
+Tube_2_4_wk_HFD_WT_44304_Leukocyte.fcs,HFD,WT,4 wk
+Tube_3_1_wk_chow_WT_43711_Leukocyte.fcs,chow,WT,1 wk
+Tube_3_1_wk_HFD_WT_44308_Leukocyte.fcs,HFD,WT,1 wk
+Tube_3_4_wk_chow_WT_43705_Leukocyte.fcs,chow,WT,4 wk
+Tube_3_4_wk_HFD_WT_44302_Leukocyte.fcs,HFD,WT,4 wk
+Tube_3_4_wk_HFD_WT_44305_Leukocyte.fcs,HFD,WT,4 wk
